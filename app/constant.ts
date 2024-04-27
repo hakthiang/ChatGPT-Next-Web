@@ -155,7 +155,7 @@ const googleModels = [
 ];
 
 const anthropicModels = [
-  //"claude-instant-1.2",
+  "claude-instant-1.2",
   //"claude-2.0",
   //"claude-2.1",
   //"claude-3-sonnet-20240229",
